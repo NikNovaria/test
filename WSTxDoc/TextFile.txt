@@ -1,0 +1,1 @@
+﻿// Scaffold-DbContext -DataAnnotations -OutputDir Models -ContextDir . 'Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=CSharpEF;User Id=sa;Password=sa' Microsoft.EntityFrameworkCore.SqlServer
